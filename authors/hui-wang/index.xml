@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hui Wang | Caigui Jiang</title>
+    <link>https://caiguijiang.github.io/authors/hui-wang/</link>
+      <atom:link href="https://caiguijiang.github.io/authors/hui-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hui Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Caigui Jiang©2020</copyright><lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://caiguijiang.github.io/images/icon_hu4e0328d52ac32ca7a6faed08c8df24dd_26698_512x512_fill_lanczos_center_2.png</url>
+      <title>Hui Wang</title>
+      <link>https://caiguijiang.github.io/authors/hui-wang/</link>
+    </image>
+    
+    <item>
+      <title>Architectural freeform surfaces designed for cost-effective paneling through mold re-use</title>
+      <link>https://caiguijiang.github.io/publication/2020_aag_mold/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://caiguijiang.github.io/publication/2020_aag_mold/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
