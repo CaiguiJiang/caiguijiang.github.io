@@ -5,7 +5,7 @@
     <link>https://caiguijiang.github.io/authors/peter-wonka/</link>
       <atom:link href="https://caiguijiang.github.io/authors/peter-wonka/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Wonka</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Caigui Jiang©2021</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Caigui Jiang©2021</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://caiguijiang.github.io/images/icon_hu4e0328d52ac32ca7a6faed08c8df24dd_26698_512x512_fill_lanczos_center_2.png</url>
       <title>Peter Wonka</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Checkerboard Patterns with Black Rectangles</title>
-      <link>https://caiguijiang.github.io/publication/2019_siga_checkboard/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://caiguijiang.github.io/publication/2019_siga_checkboard/</guid>
+      <title>Computational Design of Lightweight Trusses</title>
+      <link>https://caiguijiang.github.io/publication/2019_truss/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://caiguijiang.github.io/publication/2019_truss/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -33,10 +33,10 @@
     </item>
     
     <item>
-      <title>Computational Design of Lightweight Trusses</title>
-      <link>https://caiguijiang.github.io/publication/2019_truss/</link>
+      <title>Checkerboard Patterns with Black Rectangles</title>
+      <link>https://caiguijiang.github.io/publication/2019_siga_checkboard/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://caiguijiang.github.io/publication/2019_truss/</guid>
+      <guid>https://caiguijiang.github.io/publication/2019_siga_checkboard/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
