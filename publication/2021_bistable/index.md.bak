@@ -1,0 +1,82 @@
+---
+title: "Shape-morphing Mechanical Metamaterials"
+authors: 
+- admin
+- Florian Rist
+- Hui Wang
+- Johannes Wallner
+- Helmut Pottmann
+date: "2022-1-30T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2020-03-28T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: "Computer-Aided Design"
+publication_short: ""
+
+abstract: Small-scale cut and fold patterns imposed on sheet material enable its morphing into three-dimensional shapes. This manufacturing paradigm has been receiving much attention in recent years and poses challenges in both fabrication and computation. It is intimately connected with the interpretation of patterned sheets as mechanical metamaterials, typically of negative Poisson ratio. We here present an affirmative solution to a fundamental geometric question, namely the targeted programming of a shape morph. We use optimization to compute kirigami patterns that realize a morph between arbitrary shapes, in particular between a flat sheet and a surface in space. This so-called inverse problem for kirigami cut and fold patterns is solved by drawing on a differential-geometric interpretation of the morph and on progress in geometric computing
+# Summary. An optional shortened abstract.
+summary: We here present an affirmative solution to a fundamental geometric question, namely the targeted programming of a shape morph.
+
+tags:
+- Source Themes
+featured: true
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: http://www.geometrie.tugraz.at/wallner/geommaterials.pdf
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
+
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 1
+  caption: "By Caigui Jiang"
+  focal_point: "Smart"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
