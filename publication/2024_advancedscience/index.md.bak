@@ -1,0 +1,88 @@
+---
+title: "Observation of a Higher-Order End Topological Insulator in a Real Projective Lattice"
+authors: 
+- Ce Shang*
+- Shuo Liu*
+- Caigui Jiang*
+- Ruiwen Shao
+- Xiaoning Zang
+- Ching Hua Lee
+- Aurélien Manchon
+- TieJun Cui
+- Udo Schwingenschlögl
+
+date: "2024-01-02T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2024-01-01T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
+# Publication name and optional abbreviated publication name.
+publication: "Advanced Science"
+publication_short: ""
+
+abstract: In the context of surface representations, we find a natural structural similarity between grid surface and image data. Motivated by this inspiration, we propose a novel approach, encoding grid surfaces as geometric images and using image processing methods to address surface optimization-related problems. As a result, we have created the first dataset for grid surface optimization and devised a learning-based grid surface optimization network specifically tailored to geometric images, addressing the surface optimization problem through a data-driven learning of geometric constraints paradigm. We conduct extensive experiments on developable surface optimization, surface flattening, and surface denoising tasks using the designed network and datasets. The results demonstrate that our proposed method not only addresses the surface optimization problem better than traditional numerical optimization methods, especially for complex surfaces, but also boosts the optimization speed by multiple orders of magnitude. This pioneering study successfully applies deep learning methods to the field of surface optimization and provides a new solution paradigm for similar tasks, which will provide inspiration and guidance for future developments in the field of discrete surface optimization.
+# Summary. An optional shortened abstract.
+summary: We discretize isometric mappings between surfaces as correspondences between checkerboard patterns derived from quad meshes.
+
+
+tags:
+- Source Themes
+featured: false
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://onlinelibrary.wiley.com/doi/10.1002/advs.202303222
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
+
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 1
+  caption: "By Caigui Jiang"
+  focal_point: "Smart"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
