@@ -1,16 +1,16 @@
 ---
-title: "Planar panels and planar supporting beams in architectural structures"
+title: "Quad mesh mechanisms"
 authors: 
 - Admin
-- Cheng Wang
-- Xavier TELLIER
+- Dmitry Lyakhov
+- Florian Rist
 - Johannes Wallner
 - Helmut Pottmann
-date: "2022-08-15T00:00:00Z"
+date: "2024-07-1T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-08-28T00:00:00Z"
+publishDate: "2024-01-1T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,10 +22,9 @@ publication_types: ["2"]
 publication: "ACM Transactions on Graphics"
 publication_short: ""
 
-abstract: In this paper we investigate geometric properties and modeling capabilities of quad meshes with planar faces whose mesh polylines enjoy the additional property of being contained in a single plane. This planarity is a major benefit in architectural design and building construction, if a structural element is contained in a plane, it can be manufactured on the ground without scaffolding and put into place as a whole. Further, the plane it is contained in serves as part of a so-called support structure. We discuss design of meshes under the requirement that one half of mesh polylines are planar (P-meshes), and we also investigate the geometry and design of meshes where all polylines enjoy this property (PP-meshes). We work in the space of planes and with appropriate transformations of that space. We also incorporate further properties relevant for architectural design, such as near-rectangular panels and repetitive nodes. We provide geometric insights, give explicit constructions, and show an approach to geometric modeling of both P-meshes and PP-meshes, in particular the case of nearly rectangular panels.
+abstract: This paper provides computational tools for the modeling and design of quad mesh mechanisms, which are meshes allowing continuous flexions under the assumption of rigid faces and hinges in the edges. We combine methods and results form different areas, namely differential geometry of surfaces, rigidity and flexibility of bar and joint frameworks, algebraic geometry, and optimization.  The basic idea to achieve a time-continuous flexion is time-discretization justified by an algebraic degree argument. We are able to prove computationally feasible bounds on the number of required time instances we need to incorporate in our optimization.  For optimization to succeed, an informed initialization is crucial. We present two computational pipelines to achieve that, one based on remeshing isometric surface pairs, another one based on iterative refinement. A third manner of initial data proved very useful, We designe meshes which enjoy some, but not all properties of known classes of flexible meshes, such that there is still enough design freedom. Optimization towards flexibility of such results is surprisingly effective.
 # Summary. An optional shortened abstract.
-summary: In this paper we investigate geometric properties and modeling capabilities of quad meshes with planar faces whose mesh polylines enjoy the additional property of being contained in a single plane.
-
+summary: This paper provides computational tools for the modeling and design of quad mesh mechanisms.
 
 tags:
 - Source Themes
