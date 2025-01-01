@@ -1,0 +1,51 @@
+---
+# Display name
+title: Fantao Ren 任帆涛 
+
+# Username (this should match the folder name)
+authors:
+- Fantao Ren
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Ph.D Student
+
+# Organizations/Affiliations
+organizations:
+- name: Xi'an Jiaotong University
+  url: "https://www.xjtu.edu.cn/"
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests are in geometric modeling, geometry processing, industrial geometry of vehical, computer graphics, and computer vision.
+
+interests:
+- Artificial Intelligence
+- Computer Graphics
+- Geometry Processing
+
+
+education:
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Xi’an Jiaotong University
+    year: 2024 --- Now
+  - course: MSc in Aeronautical and  Astronautical Science and Technology
+    institution: Beijing Institute of Technology
+    year: 2021 --- 2024
+  - course: BSc in Flight Vehicle Design and Engineering
+    institution: Beijing Institute of Technology
+    year: 2017 --- 2021
+
+
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+# email: "test@test.com"
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- PhD Students
+---
+I am a PhD student at [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/) of [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) in China. Before that, I received my B.S. and M.S. degrees from [Beijing Institute of Technology](https://www.bit.edu.cn/) (BIT) in 2021 and 2024 respectively. My research interests are in geometric modeling, geometry processing, industrial geometry of vehical, computer graphics.

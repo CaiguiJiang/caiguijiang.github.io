@@ -1,0 +1,47 @@
+---
+# Display name
+title: Yiuxan Li 李毅轩
+
+# Username (this should match the folder name)
+authors:
+- Yixuan Li
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Master's Student
+
+# Organizations/Affiliations
+organizations:
+- name: Xi'an Jiaotong University
+  url: "https://www.xjtu.edu.cn/"
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests focus on multi-modal SLAM and robot localization.
+
+interests:
+- Artificial Intelligence
+- Robot Localization
+- Multi-modal SLAM
+- Robotics
+
+education:
+  courses:
+  - course: MSc in Control Science and Engineering
+    institution: Xi’an Jiaotong University
+    year: 2023 --- Present
+  - course: B.E. in Automation
+    institution: Xi’an Jiaotong University
+    year: 2019 --- 2023
+
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+# email: "test@test.com"
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- MS Students
+---
+I am a Master's student at the [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/) of [Xi’an Jiaotong University](http://www.xjtu.edu.cn/). My research focuses on multi-modal SLAM, robot localization, and semantic mapping in complex environments.

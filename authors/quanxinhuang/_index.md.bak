@@ -1,0 +1,47 @@
+---
+# Display name
+title: Quanxin Huang 黄全鑫 
+
+# Username (this should match the folder name)
+authors:
+- QuanxinHuang
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Master's Student
+
+# Organizations/Affiliations
+organizations:
+- name: Xi'an Jiaotong University
+  url: "https://www.xjtu.edu.cn/"
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests are in computer graphics, geometry processing, and computer vision.
+
+interests:
+- Artificial Intelligence
+- Computer Graphics
+- Geometry Processing
+
+
+education:
+  courses:
+  - course: BSc in Artificial Intelligence
+    institution: Xi’an Jiaotong University
+    year: 2020 --- 2024
+
+
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+# email: "hqx511248975@stu.xjtu.edu.cn"
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- MS Students
+---
+I am studying for my master's degree in Artificial Intelligence at [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) in China. I received my B.S. degree from [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) (XJTU) in 2024.  My research interests are in geometry processing,  computer graphics, intelligence vehicle and computer vision. 
+
+#Personal web：[jiang.gr.xjtu.edu.cn](http://jiang.gr.xjtu.edu.cn)
