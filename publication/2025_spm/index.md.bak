@@ -1,0 +1,79 @@
+---
+title: "Modular Shape Modeling with Controllable Discrete Equivalence Class Distribution"
+authors: 
+- Jianlei Wang
+- Zeyang Wu
+- Yongqi Tian
+- admin
+date: "2025-07-02T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2025-08-01T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
+# Publication name and optional abbreviated publication name.
+publication: "Computer-Aided Design, SPM"
+publication_short: ""
+
+abstract: Despite significant advancements in manufacturing technology and cost optimization, discrete equivalence class modeling in complex surface design still presents challenges in balancing geometric similarity, aesthetic quality, and manufacturing accuracy. To overcome this challenge, we propose a modular shape modeling method based on curve control. First, the method generates an initial set of points via curve-based region segmentation. It then applies Centroidal Voronoi Tessellation for coarse topology optimization, incorporating curve constraints and density functions. Following this, local edge flipping and vertex repositioning are performed to further refine the topology. Finally, we iteratively perform clustering and equivalence class optimization to precisely control the mesh structure and fine-tune the modular distribution of discrete equivalence classes. Experimental results show that our approach not only achieves a controllable distribution of equivalence classes, but also surpasses state-of-the-art methods in terms of visual fidelity and manufacturing accuracy, highlighting its potential for improving the efficiency of freeform surface design and fabrication. # Summary. An optional shortened abstract.
+summary: Despite significant advancements in manufacturing technology and cost optimization, discrete equivalence class modeling in complex surface design still presents challenges in balancing geometric similarity, aesthetic quality, and manufacturing accuracy. 
+tags:
+- Source Themes
+featured: false
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
+
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 1
+  caption: "By Caigui Jiang"
+  focal_point: "Smart"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
