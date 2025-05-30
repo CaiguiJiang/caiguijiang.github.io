@@ -1,0 +1,78 @@
+---
+title: "Weingarten Surface Approximation by Curvature Diagram Transformation"
+authors: 
+- Fei Huang
+- Caigui Jiang*
+- Yongliang Yang
+date: "2025-05-20T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2025-05-01T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
+# Publication name and optional abbreviated publication name.
+publication: "Computer aided geometric design"
+publication_short: ""
+
+abstract: Weingarten surfaces are characterized by a functional relation between their principal curvatures. Such a specialty makes them suitable for building surface paneling in architectural applications, as the curvature relation implies approximate local congruence on the surface thus the molds for paneling can be largely reused. In this work, we aim at a novel task of Weingarten surface approximation. Given a surface mesh with arbitrary topology, we optimize its shape to make it as Weingarten as possible. We devise a curvature-based optimization approach based on the fact that the 2D principal curvature plots of a Weingarten surface comprise a group of 1D curves that encode the curvature relations.Our approach alternatively performs two steps. The first step transforms the principal curvature plots from a 2D region to 1D curves in order to explore the curvature relations.The second step deforms the shape such that its curvatures conform to the corresponding transformed curvature plots.We demonstrate the effectiveness of our work on a variety of shapes with different topologies.Hopefully our work would bring inspiration on the study of general Weingarten surfaces with arbitrary topology and curvature relation.
+summary: Weingarten surfaces are characterized by a functional relation between their principal curvatures. Such a specialty makes them suitable for building surface paneling in architectural applications, as the curvature relation implies approximate local congruence on the surface thus the molds for paneling can be largely reused. 
+tags:
+- Source Themes
+featured: false
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0167839625000275?dgcid=rss_sd_all'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
+
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 1
+  caption: "By Caigui Jiang"
+  focal_point: "Smart"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

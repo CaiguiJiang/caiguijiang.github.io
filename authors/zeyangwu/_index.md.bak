@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student
+role: MSc Student，graduated in 2025
 
 # Organizations/Affiliations
 organizations:
@@ -45,4 +45,4 @@ education:
 user_groups:
 - MS Students
 ---
-I am a MSc student at Institute of Artificial Intelligence and Robotics of Xi’an Jiaotong University in China. My research interests are in computer graphics and 3d reconstruction.
+I am a master student at [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/) of [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) in China. Before that, I received my B.S. degrees from [Jilin University](http://www.jlu.edu.cn/) (JLU) in 2019. My research interests are in geometric modeling, geometry processing, computer graphics, and computer vision. 
