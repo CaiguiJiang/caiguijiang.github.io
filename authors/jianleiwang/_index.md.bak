@@ -47,9 +47,8 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD
+- PhD Students
 ---
 I am a first-year PhD student at [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/) of [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) in China,  supervised by [Prof. Caigui Jiang](https://gr.xjtu.edu.cn/en/web/jiang). Before that, I received my B.S. degrees from [Wuhan University of Technology](https://www.whut.edu.cn/) in 2022. My research interest lies in geometry processing and 3D fabrication.
 
-
-Personal web：[Jianlei Wang's website](https://github.com/JianleiWang)
+[Personal Website](https://jianleiwang.github.io/）

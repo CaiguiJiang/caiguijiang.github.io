@@ -1,0 +1,80 @@
+---
+title: "Modular Shape Modeling with Controllable Discrete Equivalence Class Distribution"
+authors: 
+- Hongyuanmin
+- Ning Ding
+- Mingyang Wan
+- Guojun Ma
+- admin
+date: "2025-10-02T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2025-05-01T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
+# Publication name and optional abbreviated publication name.
+publication: "The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) "
+publication_short: ""
+
+abstract: This paper presents a learning-based online IMU compensation method (AGCNet) that can compensate for runtime errors of the accelerometer and gyroscope to improve inertial odometry. AGCNet employs U-Net architecture with hybrid dilated convolutions to extract multiscale features. It alsoadopts skip connections and patch-based processing strategy to aggregate local and global information. The network is trained to minimize absolute errors between integration results derived from compensated IMU data and ground truth motion states. The network utilizes IMU measurements from the current time window to correct errors in the subsequent time window, enabling sparser computations. Experiments on two public visualinertial datasets show that AGCNet can accurately estimate the orientation from IMU measurements, outperforming existing learning-based methods. When applied to Open-VINS, AGCNet improves the accuracy of orientation estimation by an average of 29.8% and position estimation by an average of 37.3%.
+summary: This paper presents a learning-based online IMU compensation method (AGCNet).
+tags:
+- Source Themes
+featured: false
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
+
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 1
+  caption: "By Caigui Jiang"
+  focal_point: "Smart"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
