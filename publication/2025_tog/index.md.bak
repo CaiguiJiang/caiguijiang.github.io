@@ -30,8 +30,8 @@ featured: false
 
 # links:
 # - name: ""
-   url: "https://arxiv.org/abs/2506.01726"
-url_pdf: ''
+ #  url: ""
+url_pdf: 'https://arxiv.org/abs/2506.01726'
 url_code: ''
 url_dataset: ''
 url_poster: ''

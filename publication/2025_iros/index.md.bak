@@ -19,7 +19,7 @@ publishDate: "2025-05-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) "
+publication: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) "
 publication_short: ""
 
 abstract: This paper presents a learning-based online IMU compensation method (AGCNet) that can compensate for runtime errors of the accelerometer and gyroscope to improve inertial odometry. AGCNet employs U-Net architecture with hybrid dilated convolutions to extract multiscale features. It alsoadopts skip connections and patch-based processing strategy to aggregate local and global information. The network is trained to minimize absolute errors between integration results derived from compensated IMU data and ground truth motion states. The network utilizes IMU measurements from the current time window to correct errors in the subsequent time window, enabling sparser computations. Experiments on two public visualinertial datasets show that AGCNet can accurately estimate the orientation from IMU measurements, outperforming existing learning-based methods. When applied to Open-VINS, AGCNet improves the accuracy of orientation estimation by an average of 29.8% and position estimation by an average of 37.3%.
