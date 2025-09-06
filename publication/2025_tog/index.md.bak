@@ -1,5 +1,5 @@
 ---
-title: "Modular Shape Modeling with Controllable Discrete Equivalence Class Distribution"
+title: "Solving Euclidean Problems by Isotropic Initialization"
 authors: 
 - Khusrav Yorov
 - Bolun Wang
@@ -22,8 +22,8 @@ publication_types: ["3"]
 publication: "arxiv"
 publication_short: ""
 
-abstract: This paper presents a learning-based online IMU compensation method (AGCNet) that can compensate for runtime errors of the accelerometer and gyroscope to improve inertial odometry. AGCNet employs U-Net architecture with hybrid dilated convolutions to extract multiscale features. It alsoadopts skip connections and patch-based processing strategy to aggregate local and global information. The network is trained to minimize absolute errors between integration results derived from compensated IMU data and ground truth motion states. The network utilizes IMU measurements from the current time window to correct errors in the subsequent time window, enabling sparser computations. Experiments on two public visualinertial datasets show that AGCNet can accurately estimate the orientation from IMU measurements, outperforming existing learning-based methods. When applied to Open-VINS, AGCNet improves the accuracy of orientation estimation by an average of 29.8% and position estimation by an average of 37.3%.
-summary: This paper presents a learning-based online IMU compensation method (AGCNet).
+abstract: Many problems in Euclidean geometry, arising in computational design and fabrication, amount to a system of constraints, which is challenging to solve. We suggest a new general approach to the solution, which is to start with analogous problems in isotropic geometry. Isotropic geometry can be viewed as a structure-preserving simplification of Euclidean geometry. The solutions found in the isotropic case give insight and can initialize optimization algorithms to solve the original Euclidean problems. We illustrate this general approach with three examples: quadmesh mechanisms, composite asymptotic-geodesic gridshells, and asymptotic gridshells with constant node angle.
+summary:  We suggest a new general approach to the solution, which is to start with analogous problems in isotropic geometry. Isotropic geometry can be viewed as a structure-preserving simplification of Euclidean geometry. .
 tags:
 - Source Themes
 featured: false
